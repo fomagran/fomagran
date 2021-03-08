@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 📒  **Fomagran's blog ...[Foma's iOS](https://fomaios.tistory.com/) **
+- 📒  **Fomagran's blog ...[Foma's iOS](https://fomaios.tistory.com/)**
 
 - 💻  **Fomagran's Youtube...[Fomagran](https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)**
 
