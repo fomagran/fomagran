@@ -2,7 +2,7 @@
 
  - 💻   **I'm a iOS Develover**    
 
- - 🇰🇷  **I'm working in South Korea**
+ - 🇰🇷  **I'm working in Seoul**
 
 ### How to reach me? 🤔
 
