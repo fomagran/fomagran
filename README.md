@@ -2,15 +2,19 @@
 
  - 💻   **I'm a iOS Develover**    
 
- - 🇰🇷  **I'm working in Seoul**
+ - 🧩   **I'm a creative coder**
+
+ - 🇺🇸 **I'm working in U.S.A**
 
 ### How to reach me? 🤔
 
-- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:fomagran6@gmail.com)
+- 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fomagran6@gmail.com)
 
-- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://fomaios.tistory.com/)
+- 📒  **Fomagran's blog ...** [![Tistory Name Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fomaios.tistory.com/)
 
-- 📺  **Fomagran's Youtube...**[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)](https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)     
+- 📺  **Fomagran's Youtube...**[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw)    
+
+- 📷  **Fomagran's Instagram...**[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fomagran)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
 
