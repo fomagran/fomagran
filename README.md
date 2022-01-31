@@ -4,7 +4,7 @@
 
  - 🧩   **I'm a creative coder**
 
- - 🇺🇸 **I'm working in U.S.A**
+ - 🗽 **I'm working in U.S.A**
 
 ### How to reach me? 🤔
 
