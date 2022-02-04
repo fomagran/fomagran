@@ -2,7 +2,7 @@
 
  - 💻   **I'm a iOS Develover**    
 
- - 🧩   **I'm a creative coder**
+ - 🧩   **I'm a Creative coder**
 
  - 🗽 **I'm working in U.S.A**
 
