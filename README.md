@@ -30,11 +30,9 @@
   
  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart&logoColor=0175C2"/>  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B"/> 
  
- <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC"/> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"/> 
+ <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/>  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=Visual-Studio-Code&logoColor=007ACC"/> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=61DAFB"/>   
  
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=F80000"/>  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=339933"/> 
- 
- <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/>  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/> 
+ <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/>  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>     
 
 </details> 
 </div>
