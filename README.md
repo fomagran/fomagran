@@ -26,13 +26,13 @@
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffomagran&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   
- <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=Swift&logoColor=F05138"/> <img src="https://img.shields.io/badge/ReactiveX-000000?style=for-the-badge&logo=ReactiveX&logoColor=B7178C"/>
+ <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX-000000?style=for-the-badge&logo=ReactiveX&logoColor=B7178C"/>
   
- <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart&logoColor=0175C2"/>  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=Flutter&logoColor=02569B"/> 
+ <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/> 
  
  <img src="https://badges.aleen42.com/src/javascript.svg"/>  <img src="https://badges.aleen42.com/src/typescript.svg"/> <img src="https://badges.aleen42.com/src/angular.svg"/>   
  
- <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/>  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/>   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>     
+ <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </details> 
 </div>
