@@ -2,7 +2,7 @@
  
 ### 🔥 Fomagran 🔥   
 
-🗽 **I'm currently in the U.S**
+🗽 **I'm working in the U.S.A**
 
 #
 
