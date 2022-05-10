@@ -2,8 +2,6 @@
  
 ### 🔥 Fomagran 🔥   
 
-🗽 **I'm working in the U.S.A**
-
 #
 
 ### How to reach me? 🤔
