@@ -1,7 +1,5 @@
 <div align="center">
 
-### How to reach me? 🤔
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fomagran6@gmail.com)  [![Tistory Name Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://fomaios.tistory.com/) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC59AeIeNUcJDoCga8cO5ENw) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fomagran)  
 
 <a href="https://api.opgc.me/githubs/users/fomagran/tag" target="_blank"><img src="https://api.opgc.me/githubs/users/fomagran/tag/?theme=prism" /></a>
