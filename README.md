@@ -6,12 +6,6 @@
 
 <a href="https://opgc.me/#/users/keenkim1202" target="_blank"><img src="https://api.opgc.me/githubs/users/fomagran/tag/?theme=basic" /></a>
 
-#
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fomagran&show_icons=true&theme=cobalt)   
- 
-#
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fomagran&layout=compact&theme=tokyonight) 
   
  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX-000000?style=for-the-badge&logo=ReactiveX&logoColor=B7178C"/>
